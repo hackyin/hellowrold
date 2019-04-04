@@ -1,3 +1,2 @@
-# hellowrold
-just another potrity
-## It's just an experiment
+# 996.icu
+生活就是这样，如此地艰难。没有时间去放弃，没有时间去留恋，我们也只能做着每件都对我们有利的事情。
